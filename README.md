@@ -1,4 +1,4 @@
-# Proiect Energy System
+# Energy System
 
 ## Implementare
 
